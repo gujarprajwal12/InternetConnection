@@ -44,6 +44,6 @@ dependencies {
 
     //local dependcyadd
 
-  implementation project( ':internetconnectivitylibrary')
+
 
 }
